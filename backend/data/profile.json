@@ -1,0 +1,21 @@
+{
+  "name": "Rallion Antonio Cipriano",
+  "title": "Backend Java Developer",
+  "tagline": "Spring Boot | GraphQL | AWS | Microservices",
+  "location": "Navotas City, Philippines",
+  "phone": "+63 976 012 5623",
+  "email": "ciprianorallion@gmail.com",
+  "summary": "Backend Java Developer with 4+ years of experience developing enterprise applications using Java, Spring Boot, Spring Framework, REST APIs, GraphQL, Oracle, PostgreSQL, AWS, JBoss and WildFly. Experienced in Agile development, CI/CD, scalable backend systems and cloud-native solutions.",
+  "stats": [
+    { "value": "4+", "label": "Years Experience" },
+    { "value": "4", "label": "Companies Served" },
+    { "value": "10+", "label": "Core Technologies" }
+  ],
+  "socials": {
+    "github": "https://github.com/rcips/",
+    "linkedin": "https://www.linkedin.com/in/rallion-antonio-cipriano-238a38205/",
+    "email": "mailto:ciprianorallion@gmail.com"
+  },
+  "photo": "/assets/portfolio/image1.png",
+  "resume": "/Rallion_Antonio_Cipriano_Resume.pdf"
+}

@@ -1,0 +1,10 @@
+[
+  { "id": 1, "category": "Languages", "items": ["Java (4+ Years)", "JavaScript", "TypeScript", "SQL", "Node.js"] },
+  { "id": 2, "category": "Frameworks", "items": ["Spring Boot", "Spring Framework", "Spring Batch", "React", "Express.js", "jQuery"] },
+  { "id": 3, "category": "Backend", "items": ["REST APIs", "GraphQL", "Microservices", "JWT Authentication", "OAuth2", "Webhooks"] },
+  { "id": 4, "category": "Databases", "items": ["Oracle", "PostgreSQL", "MongoDB", "Cassandra (CQL)", "SQL", "NoSQL"] },
+  { "id": 5, "category": "Cloud & DevOps", "items": ["AWS", "Docker", "Kubernetes", "Jenkins", "Git", "GitHub", "CI/CD", "Maven", "Gradle", "JBoss", "WildFly"] },
+  { "id": 6, "category": "Messaging", "items": ["RabbitMQ"] },
+  { "id": 7, "category": "Testing", "items": ["JUnit", "Postman", "API Testing", "Integration Testing"] },
+  { "id": 8, "category": "Engineering", "items": ["OOP", "SOLID", "Design Patterns", "Clean Architecture", "Clean Code", "Agile/Scrum", "SDLC"] }
+]

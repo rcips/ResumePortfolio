@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "company": "CXFabric",
+    "role": "Backend Developer",
+    "start": "Dec 2023",
+    "end": "Present",
+    "current": true,
+    "bullets": [
+      "Built scalable backend services using Java, Spring Boot, Node.js, REST APIs and GraphQL.",
+      "Integrated AWS services and webhooks.",
+      "Collaborated with Agile teams and improved application reliability."
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Accenture",
+    "role": "Custom Software Engineering Senior Analyst",
+    "start": "Sept 2024",
+    "end": "Dec 2025",
+    "current": false,
+    "bullets": [
+      "Developed enterprise Java applications using Spring Framework, Oracle and JBoss.",
+      "Optimized backend performance and maintained production systems."
+    ]
+  },
+  {
+    "id": 3,
+    "company": "Entrego",
+    "role": "Software Engineer",
+    "start": "Dec 2022",
+    "end": "Dec 2023",
+    "current": false,
+    "bullets": ["Developed REST APIs using Java Spring Boot and PostgreSQL."]
+  },
+  {
+    "id": 4,
+    "company": "Pacific Sea BPO",
+    "role": "Risk Management Analyst",
+    "start": "Feb 2020",
+    "end": "May 2022",
+    "current": false,
+    "bullets": ["Performed fraud analysis and transaction risk investigations."]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "title": "RC Workflows AI",
+    "category": "Workflow Automation Platform",
+    "description": "A workflow automation platform built with Java, Spring Boot, GraphQL, RabbitMQ, PostgreSQL, React, TypeScript, Docker and Kubernetes.",
+    "image": "/assets/portfolio/CXFabric.png",
+    "demo": "",
+    "code": "https://github.com/rcips/",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "title": "Online Library",
+    "category": "JavaScript Web App",
+    "description": "An online library system for browsing and managing books, built with vanilla JavaScript.",
+    "image": "/assets/portfolio/Onlinelibrary.jpg",
+    "demo": "https://rcips.github.io/OnlineLibrary-JS/",
+    "code": "https://github.com/rcips/OnlineLibrary-JS",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "title": "Cyberpunk API Client",
+    "category": "Full-Stack Web App",
+    "description": "A client application consuming a custom-built Cyberpunk-themed API.",
+    "image": "/assets/portfolio/CPB.jpg",
+    "demo": "https://cypberpunk-client.vercel.app/",
+    "code": "https://github.com/ChrlnSaez/Cyberpunk_API",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "number": "04",
+    "title": "Simple Conversion",
+    "category": "Utility Tool",
+    "description": "A lightweight unit conversion tool built with vanilla JavaScript.",
+    "image": "/assets/portfolio/Converter.jpg",
+    "demo": "https://rcips.github.io/simpleconversion/",
+    "code": "https://github.com/rcips/simpleconversion",
+    "featured": false
+  }
+]
