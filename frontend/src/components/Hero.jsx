@@ -51,7 +51,7 @@ export default function Hero({ profile }) {
           </div>
 
           <Reveal delay={250} className="flex md:justify-end">
-            <div className="grid grid-cols-3 md:flex md:flex-col gap-6 md:gap-4 bg-black/40 backdrop-blur-md border border-white/10 rounded-2xl px-6 py-6 md:w-56">
+            <div className="grid grid-cols-3 md:flex md:flex-col gap-6 md:gap-4 bg-ink/40 backdrop-blur-md border border-white/10 rounded-2xl px-6 py-6 md:w-56">
               {profile.stats.map((s) => (
                 <div key={s.label}>
                   <div className="font-display text-3xl text-accent">{s.value}</div>

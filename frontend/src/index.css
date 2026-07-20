@@ -7,14 +7,14 @@ html {
 }
 
 body {
-  background-color: #0f172a;
+  background-color: #2e382e;
   color: #f4f7fb;
   font-family: "Space Grotesk", sans-serif;
   overflow-x: hidden;
 }
 
 ::selection {
-  background: hsl(0, 83%, 53%);
+  background: #50c9ce;
   color: #ffffff;
 }
 
@@ -22,10 +22,10 @@ body {
   width: 10px;
 }
 ::-webkit-scrollbar-track {
-  background: #0f172a;
+  background: #2e382e;
 }
 ::-webkit-scrollbar-thumb {
-  background: hsl(0, 83%, 53%);
+  background: #50c9ce;
   border-radius: 6px;
 }
 
@@ -33,7 +33,7 @@ body {
   font-family: "Anton", sans-serif;
   letter-spacing: 2px;
   color: transparent;
-  -webkit-text-stroke: 1px rgba(235, 37, 37, 0.35);
+  -webkit-text-stroke: 1px rgba(80, 201, 206, 0.35);
   user-select: none;
   line-height: 0.8;
 }
