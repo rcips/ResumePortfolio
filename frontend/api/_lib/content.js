@@ -102,8 +102,8 @@ export const projects = [
     description:
       "Built scalable backend services using Java, Spring Boot, Node.js, REST APIs and GraphQL. Integrated AWS services and webhooks. Collaborated with Agile teams and improved application reliability.",
     image: "/assets/portfolio/CXFabric.png",
-    demo: "",
-    code: "https://github.com/rcips/",
+    demo: "https://cxf-frontend-qa.cxfabric.io/",
+    code: "",
     featured: true,
   },
   {
