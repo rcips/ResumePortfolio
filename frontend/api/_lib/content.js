@@ -23,7 +23,7 @@ export const profile = {
     linkedin: "https://www.linkedin.com/in/rallion-antonio-cipriano-238a38205/",
     email: "mailto:ciprianorallion@gmail.com",
   },
-  resume: "/Rallion_Antonio_Cipriano_Resume.pdf",
+  resume: "/Rallion Antonio Cipriano - Resume.pdf",
 };
 
 export const experience = [
